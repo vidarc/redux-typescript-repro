@@ -1,0 +1,12 @@
+{
+  "name": "redux-typescript-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vidarc/redux-typescript-repro.git",
+  "author": "vidarc <mattailes@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.0.0-alpha.6",
+    "typescript": "^5.0.4"
+  }
+}
